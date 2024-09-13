@@ -1,0 +1,15 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\bin\Debug\net6.0\Module 01.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\bin\Debug\net6.0\Module 01.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\bin\Debug\net6.0\Module 01.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\bin\Debug\net6.0\Module 01.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\bin\Debug\net6.0\Module 01.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\obj\Debug\net6.0\Module 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\obj\Debug\net6.0\Module 01.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\obj\Debug\net6.0\Module 01.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\obj\Debug\net6.0\Module 01.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\obj\Debug\net6.0\Module 01.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\obj\Debug\net6.0\refint\Module 01.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\obj\Debug\net6.0\Module 01.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\obj\Debug\net6.0\Module 01.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\obj\Debug\net6.0\ref\Module 01.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Programming Advance\Assignment\Module 01\obj\Debug\net6.0\Module 01.sourcelink.json
