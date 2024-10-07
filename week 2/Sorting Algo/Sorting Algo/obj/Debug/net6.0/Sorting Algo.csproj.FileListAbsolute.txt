@@ -1,0 +1,15 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\obj\Debug\net6.0\Sorting Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\obj\Debug\net6.0\Sorting Algo.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\obj\Debug\net6.0\Sorting Algo.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\obj\Debug\net6.0\Sorting Algo.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\obj\Debug\net6.0\Sorting Algo.sourcelink.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\bin\Debug\net6.0\Sorting Algo.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\bin\Debug\net6.0\Sorting Algo.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\bin\Debug\net6.0\Sorting Algo.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\bin\Debug\net6.0\Sorting Algo.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\bin\Debug\net6.0\Sorting Algo.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\obj\Debug\net6.0\Sorting Algo.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\obj\Debug\net6.0\refint\Sorting Algo.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\obj\Debug\net6.0\Sorting Algo.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\obj\Debug\net6.0\Sorting Algo.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 2\Sorting Algo\Sorting Algo\obj\Debug\net6.0\ref\Sorting Algo.dll
