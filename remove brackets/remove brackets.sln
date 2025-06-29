@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remove brackets", "remove brackets\remove brackets.csproj", "{F195AD40-7910-44EB-BC20-84EBC15D96A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F195AD40-7910-44EB-BC20-84EBC15D96A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F195AD40-7910-44EB-BC20-84EBC15D96A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F195AD40-7910-44EB-BC20-84EBC15D96A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F195AD40-7910-44EB-BC20-84EBC15D96A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4F8BD2-994A-42F1-B969-A95C614D25BB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\bin\Debug\net6.0\remove brackets.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\bin\Debug\net6.0\remove brackets.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\bin\Debug\net6.0\remove brackets.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\bin\Debug\net6.0\remove brackets.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\bin\Debug\net6.0\remove brackets.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\obj\Debug\net6.0\remove brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\obj\Debug\net6.0\remove brackets.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\obj\Debug\net6.0\remove brackets.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\obj\Debug\net6.0\remove brackets.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\obj\Debug\net6.0\remove brackets.sourcelink.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\obj\Debug\net6.0\remove brackets.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\obj\Debug\net6.0\refint\remove brackets.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\obj\Debug\net6.0\remove brackets.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\obj\Debug\net6.0\remove brackets.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\week 3\remove brackets\remove brackets\obj\Debug\net6.0\ref\remove brackets.dll
