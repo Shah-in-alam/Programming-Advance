@@ -1,0 +1,15 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\bin\Debug\net6.0\new subset solution.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\bin\Debug\net6.0\new subset solution.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\bin\Debug\net6.0\new subset solution.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\bin\Debug\net6.0\new subset solution.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\bin\Debug\net6.0\new subset solution.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\obj\Debug\net6.0\new subset solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\obj\Debug\net6.0\new subset solution.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\obj\Debug\net6.0\new subset solution.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\obj\Debug\net6.0\new subset solution.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\obj\Debug\net6.0\new subset solution.sourcelink.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\obj\Debug\net6.0\new subset solution.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\obj\Debug\net6.0\refint\new subset solution.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\obj\Debug\net6.0\new subset solution.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\obj\Debug\net6.0\new subset solution.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\Semester 4\Programming Advance\Week 5\new subset solution\new subset solution\obj\Debug\net6.0\ref\new subset solution.dll
